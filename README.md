@@ -21,7 +21,7 @@ https://evandrorodcoelho.github.io/Sistema-de-Estacionamento/
 
 ## Como Trabalhar no Projeto? 
 
-    git clone git@github.com:EvandroRodCoelho/Sistema-de-Estacionamento.git
+    git clone https://github.com/EvandroRodCoelho/Sistema-de-Estacionamento.git
 ## Compilar typeScript para ts:    
     tsc -w
 
